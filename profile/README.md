@@ -11,3 +11,11 @@ shape-changing chameleon's body for three days. Chameleons and lizards are close
 Because I already have many repositories under my personal account,
 so I decided to migrate Zig-related projects to this organization.
 If there are any issues, you can directly mention @Hanaasagi.
+
+## Projects
+
+- [cron](https://github.com/dying-will-bullet/cron): Parse cron and calculate the next run time.
+- [deunicode](https://github.com/dying-will-bullet/deunicode): ASCII transliterations of Unicode text.
+- [slugify](https://github.com/dying-will-bullet/slugify): Slugifies a string.
+- [dotenv](https://github.com/dying-will-bullet/dotenv): Loads environment variables from `.env` file.
+- [unique](https://github.com/dying-will-bullet/unique): Collection of Unique ID Algorithms.
