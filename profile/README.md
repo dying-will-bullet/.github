@@ -19,3 +19,4 @@ If there are any issues, you can directly mention @Hanaasagi.
 - [slugify](https://github.com/dying-will-bullet/slugify): Slugifies a string.
 - [dotenv](https://github.com/dying-will-bullet/dotenv): Loads environment variables from `.env` file.
 - [unique](https://github.com/dying-will-bullet/unique): Collection of Unique ID Algorithms.
+- [once](https://github.com/dying-will-bullet/once):  `OnceCell` and `Lazy` in Zig.
