@@ -20,3 +20,4 @@ If there are any issues, you can directly mention @Hanaasagi.
 - [dotenv](https://github.com/dying-will-bullet/dotenv): Loads environment variables from `.env` file.
 - [unique](https://github.com/dying-will-bullet/unique): Collection of Unique ID Algorithms.
 - [once](https://github.com/dying-will-bullet/once):  `OnceCell` and `Lazy` in Zig.
+- [donuts](https://github.com/dying-will-bullet/donuts): Beautiful spinners for terminal.
