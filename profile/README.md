@@ -22,3 +22,4 @@ If there are any issues, you can directly mention @Hanaasagi.
 - [once](https://github.com/dying-will-bullet/once):  `OnceCell` and `Lazy` in Zig.
 - [donuts](https://github.com/dying-will-bullet/donuts): Beautiful spinners for terminal.
 - [base64-simd](https://github.com/dying-will-bullet/base64-simd): Base64 encoder/decoder with SIMD.
+- [Rlock](https://github.com/dying-will-bullet/RLock):  Reentrant lock.
