@@ -21,6 +21,7 @@ If there are any issues, you can directly mention @Hanaasagi.
 - [deunicode](https://github.com/dying-will-bullet/deunicode): ASCII transliterations of Unicode text.
 - [slugify](https://github.com/dying-will-bullet/slugify): Slugifies a string.
 - [dotenv](https://github.com/dying-will-bullet/dotenv): Loads environment variables from `.env` file.
+- [pretty-table](https://github.com/dying-will-bullet/prettytable-zig): Display tabular data in a visually appealing ASCII table format.
 - [unique](https://github.com/dying-will-bullet/unique): Collection of Unique ID Algorithms.
 - [once](https://github.com/dying-will-bullet/once):  `OnceCell` and `Lazy` in Zig.
 - [donuts](https://github.com/dying-will-bullet/donuts): Beautiful spinners for terminal.
